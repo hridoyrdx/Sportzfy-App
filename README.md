@@ -1,4 +1,4 @@
-# Sportzfy APP - Sports Streaming Guide
+# Sportzfy APP - Sports Streaming App for Android, Smart Tv, Fire Tv Stick, PC/Windows
 
 Sportzfy APK is a platform that provides sports streaming information, updates, and related resources for sports fans.
 
